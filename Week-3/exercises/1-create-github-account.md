@@ -1,4 +1,4 @@
-#Let's GIT started
+# Let's GIT started
 
 The first thing we need to do on our git journey is to make a GitHub account.
 
